@@ -1,5 +1,8 @@
-INSIGHT_AI Streamlit v9
 
+INSIGHT_AI – AI-Powered Customer Feedback & Business Analytics System
+
+Live Streamlit Application:
+https://vaibhavip1419-prog-insight-ai-app-fuuvan.streamlit.app/
 Run:
 1. pip install -r requirements.txt
 2. streamlit run app.py
