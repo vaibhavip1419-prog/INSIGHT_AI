@@ -24,7 +24,9 @@ INSIGHT_AI is an AI-powered customer feedback and business analytics system that
 
 ### 📂 Dataset
 
-Women's E-Commerce Clothing Reviews Dataset – Kaggle
+Women’s E-Commerce Clothing Reviews
+
+Source: [Kaggle Dataset](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews)
 
 ### 👩‍💻 Project
 
