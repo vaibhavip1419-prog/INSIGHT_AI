@@ -8,7 +8,7 @@ The system performs customer sentiment analysis and helps identify areas that ma
 
 ## 🌐 Live Streamlit Application
 
-https://vaibhavip1419-prog-insight-ai-app-gevn21.streamlit.app/
+(https://vaibhavip1419-prog-insight-ai-app-gevm21.streamlit.app/)
 
 ## 🚀 Key Features
 
